@@ -7,7 +7,7 @@
 ## Достъп до оригиналния код
 Оригиналното репо е **private**. Ако искаш достъп – пиши ми.
 
-Достъп: http://[127.0.0.1:8000](https://nekrato.com/menu/)/ 
+Достъп — [https://nekrato.com/menu/](https://nekrato.com/menu/)
 
 🔒 **Private repo:** *(изисква одобрение)*  
 📩 Контакт: [veslin.lilov@gmail.com](mailto:veslin.lilov@gmail.com) • GitHub: [@vegaFlex](https://github.com/vegaFlex)
@@ -87,7 +87,8 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-Локален достъп: http://127.0.0.1:8000/  
+Достъп: локално — [http://127.0.0.1:8000/](http://127.0.0.1:8000/) • продукция — [https://nekrato.com/menu/](https://nekrato.com/menu/)
+ 
 Админ: http://127.0.0.1:8000/admin/
 
 
